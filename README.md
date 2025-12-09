@@ -19,7 +19,7 @@ OPENAI_API_BASE=https://maas.ai-2.kvant.cloud
 OPENAI_MODEL_NAME=inference-llama4-maverick
 
 
-#Quick commands
+# Quick commands
 
 Crawl & chunk: python ingest.py → writes out/itnb_chunks_bfs.jsonl
 
@@ -29,7 +29,7 @@ CLI chat: python chat.py
 
 Streamlit UI: streamlit run app.py
 
-#Notes / troubleshooting
+# Notes / troubleshooting
 
 If model rejected, script auto-lists /v1/models and retries with available model.
 

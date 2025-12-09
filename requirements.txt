@@ -1,0 +1,6 @@
+streamlit>=1.30.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+beautifulsoup4>=4.12.2
+crawl4ai>=0.3.0  # optional; used if installed
+groundx>=0.3.5   # for ingestion/search SDK (optional)

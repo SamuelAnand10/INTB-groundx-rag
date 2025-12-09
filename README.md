@@ -56,7 +56,7 @@ OPENAI_API_BASE=https://maas.ai-2.kvant.cloud
 OPENAI_MODEL_NAME=inference-llama4-maverick
 
 # Optional tuning
-RAG_TOP_K=8
+RAG_TOP_K=10
 RAG_SNIPPET_CHARS=800
 
 

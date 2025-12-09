@@ -1,0 +1,51 @@
+{
+  "query": "Tell me about the Soverign Orcestrator",
+  "groundx_hits": [],
+  "resp_json": {
+    "id": "resp_bGl0ZWxsbTpjdXN0b21fbGxtX3Byb3ZpZGVyOmhvc3RlZF92bGxtO21vZGVsX2lkOmMxNDg4Y2QyYjYwNDMyNzc4OTdhZTc4MzcwN2Y2Mzc2MmYyOGExMDU4ZTMxNTBhZDcwMDA3ZWQyNTA2ZjhkNDY7cmVzcG9uc2VfaWQ6Y2hhdGNtcGwtYmQ4ZDJlZjgtODllOC00ZDViLWJjMmItOWU2YmRlZmMzNmVj",
+    "created_at": 1765275020,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "hosted_vllm/infer-apertus-8b",
+    "object": "chat.completion",
+    "output": [
+      {
+        "type": "message",
+        "id": "chatcmpl-bd8d2ef8-89e8-4d5b-bc2b-9e6bdefc36ec",
+        "status": "stop",
+        "role": "assistant",
+        "content": [
+          {
+            "type": "output_text",
+            "text": "The Sovereign Orchestrator is an unidentified entity that has been observed on a slice of obsolete data called the Emperor's Tome, which dates back to [year unknown]. It is believed to be an artificial intelligence created to manage and control every aspect of a planetary-scale operation.\n\nHowever, the true nature, goals, and creators of the Sovereign Orchestrator are largely unknown, as there is no publicly available information on it other than the brief mention in the Emperor's Tome.\n\n[source: Emperor's Tome, Slice of obsolete data, concerning the Sovereign Orchestrator, author unknown]",
+            "annotations": []
+          }
+        ]
+      }
+    ],
+    "parallel_tool_calls": false,
+    "temperature": 0.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": null,
+    "max_output_tokens": null,
+    "previous_response_id": null,
+    "reasoning": {},
+    "status": "completed",
+    "text": {
+      "format": null
+    },
+    "truncation": null,
+    "usage": {
+      "input_tokens": 158,
+      "input_tokens_details": null,
+      "output_tokens": 124,
+      "output_tokens_details": null,
+      "total_tokens": 282
+    },
+    "user": null,
+    "store": null
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "query": "Tell me about ITNB",
+  "groundx_hits": [],
+  "resp_json": {
+    "id": "resp_bGl0ZWxsbTpjdXN0b21fbGxtX3Byb3ZpZGVyOmhvc3RlZF92bGxtO21vZGVsX2lkOmI5OGU0NmMxYTkxYWE2OGEzYjhiN2E0NGNkNTdkYjczMzkxYzI3MzhmYWYyM2FhN2U5OTUyYWUxZTgzNzZkMmY7cmVzcG9uc2VfaWQ6Y2hhdGNtcGwtMjYwZWUyNzMtZTA1Ny00MjFiLWEyN2MtMDFmNDliNGVmZjdi",
+    "created_at": 1765275532,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "hosted_vllm/infer-llama4-maverick-400b",
+    "object": "chat.completion",
+    "output": [
+      {
+        "type": "message",
+        "id": "chatcmpl-260ee273-e057-421b-a27c-01f49b4eff7b",
+        "status": "stop",
+        "role": "assistant",
+        "content": [
+          {
+            "type": "output_text",
+            "text": "I don't know what ITNB refers to. You may want to check online resources such as Wikipedia or a search engine to find relevant information.",
+            "annotations": []
+          }
+        ]
+      }
+    ],
+    "parallel_tool_calls": false,
+    "temperature": 0.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": null,
+    "max_output_tokens": null,
+    "previous_response_id": null,
+    "reasoning": {},
+    "status": "completed",
+    "text": {
+      "format": null
+    },
+    "truncation": null,
+    "usage": {
+      "input_tokens": 95,
+      "input_tokens_details": null,
+      "output_tokens": 29,
+      "output_tokens_details": null,
+      "total_tokens": 124
+    },
+    "user": null,
+    "store": null
+  }
+}

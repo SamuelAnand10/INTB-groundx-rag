@@ -1,0 +1,70 @@
+{
+  "query": "Tell me about Soverign",
+  "groundx_hits": [
+    {
+      "text": "URL: https://itnb.ch/en/products-and-services/cybersecurity/sovereign-endpoint-security\r\nTitle: \r\n\r\n### Certifications and Compliance\r\nPhoenix Technologies meets the highest standards for security and compliance, holding industry-leading certifications that demonstrate our commitment to protecting client data. Our sovereign infrastructure operates fully within Swiss jurisdiction, ensuring compliance with Swiss data protection laws, the EU’s GDPR, and other stringent regulatory frameworks. By aligning with recognized standards such as ISO/IEC 27001 for information security management and ISO/IEC 27017 for cloud security, we provide verifiable assurance that your workloads and sensitive information are safeguarded to the highest level.\r\n[More about Certificates](https://itnb.ch/en/company/about-itnb/certificates-and-compliance)\r\n\r\nStart Now\r\n\r\n## Safe,  \r\nSecure,  \r\nSwiss.\r\n[Contact](https://itnb.ch/en/company/about-itnb/contact)[Portal](https://console.itnb.ch/)[LinkedinOpen Linkedin profile](https://www.linkedin.com/company/itnb-ag/)",
+      "source_url": "https://upload.eyelevel.ai/prod/file/ssp/b6f90fa4-7741-4266-87d3-c92052752d34.txt",
+      "file_name": "https___itnb.ch_en_products-and-services_cybersecurity_sovereign-endpoint-security_chunk-3.txt",
+      "score": 58.815994
+    },
+    {
+      "text": "URL: https://itnb.ch/en/products-and-services/infrastructure-as-a-service/sovereign-cloud)[Buy\r\nTitle: \r\n\r\nSovereign – Predictive – Preventive – Proactive\r\n## Cybersecurity\r\nAI and Cybersecurity solutions with a commitment to safety, compliance, and innovation.\r\n[SOC as a Service](https://itnb.ch/en/products-and-services/cybersecurity/security-operations-center-as-a-service)[Sovereign Endpoint Security](https://itnb.ch/en/products-and-services/cybersecurity/sovereign-endpoint-security)\r\n\r\n## Professional Services\r\nOur Professional Services team helps you plan, implement, and optimize your AI and cloud solutions - tailored to your business and fully aligned with Swiss compliance and Sovereignty requirements.\r\n[AI NorthStar Accelerator](https://itnb.ch/en/products-and-services/professional-services/northstar-ai-accelerator)[Project Management](https://itnb.ch/en/products-and-services/professional-services/project-management)\r\n\r\n## Partner Ecosystem\r\nIndustry-leading experts leverage best in class technology to drive impactful connections across organizations, sparking transformation and creating value. Our partner network strategically connects people, data, and resources to accelerate your goals and empower your vision.\r\n[See Ecosystem](https://itnb.ch/en/ecosystem/partner-network)\r\n\r\n## Safe,  \r\nSecure,  \r\nSwiss.\r\n[Contact](https://itnb.ch/en/company/about-itnb/contact)[Portal](https://console.itnb.ch/)[LinkedinOpen Linkedin profile](https://www.linkedin.com/company/itnb-ag/)",
+      "source_url": "https://upload.eyelevel.ai/prod/file/ssp/94cd62f1-9aca-46ef-a52c-009109a59978.txt",
+      "file_name": "https___itnb.ch_en_products-and-services_infrastructure-as-a-service_sovereign-cloud__Buy_chunk-1.txt",
+      "score": 44.51523
+    },
+    {
+      "text": "URL: https://itnb.ch/en/company/about-itnb/contact)[About\r\nTitle: \r\n\r\n## Swiss Digital Sovereignty.  \r\nAchieved.\r\nReady to empower your business with Sovereign Cloud, AI and Cybersecurity?\r\n\r\nOwn Your Stack. Rule Your Models. Run Your Use-Cases.\r\n## AI Model as a Service\r\nAI Model as a Service allows users Model-as-a-Service and Bring Your Own Model on dedicated GPUs in a Sovereign and secure environment.\r\n[Learn More](https://itnb.ch/en/products-and-services/platform-as-a-service/ai-model-as-a-service)[Buy Now](https://console.itnb.ch/en/products/categories/CLOUD_MAAS_BUDGET)\r\n\r\nYour Data, Your Rules.\r\n## Sovereign Cloud\r\nBuilt on enterprise-grade hardware and without compromising Sovereignty, security or scalability - we offer the most modern and cost-effective Cloud and AI Infrastructure in Switzerland.\r\n[Learn More](https://itnb.ch/en/products-and-services/infrastructure-as-a-service/sovereign-cloud)[Buy Now](https://console.itnb.ch/en/products/categories/CLOUD_INFRA)\r\n\r\nBuilt for Speed. Anchored by Sovereignty. On Your Premises.\r\n## Speedboat\r\nOn-Premises Sovereign Cloud cluster - engineered for speed, security, and scalability with a full-stack solution optimized for AI, virtual machines, and containerized workloads.\r\n\r\nSeamless Workflows. Total Control.\r\n## Sovereign Orchestrator\r\nEmpower your teams with a Sovereign AI solution that automates business workflows securely, efficiently, and in full compliance with Swiss data protection standards.\r\n[Learn More](https://itnb.ch/en/products-and-services/software-as-a-service/sovereign-orchestrator)",
+      "source_url": "https://upload.eyelevel.ai/prod/file/ssp/cc25efc3-9677-4a42-ab64-c39ffc4bb8a5.txt",
+      "file_name": "https___itnb.ch_en_company_about-itnb_contact__About_chunk-0.txt",
+      "score": 42.91356
+    }
+  ],
+  "resp_json": {
+    "id": "resp_bGl0ZWxsbTpjdXN0b21fbGxtX3Byb3ZpZGVyOmhvc3RlZF92bGxtO21vZGVsX2lkOmI5OGU0NmMxYTkxYWE2OGEzYjhiN2E0NGNkNTdkYjczMzkxYzI3MzhmYWYyM2FhN2U5OTUyYWUxZTgzNzZkMmY7cmVzcG9uc2VfaWQ6Y2hhdGNtcGwtMjAyOTUxNDQtZDc0Ny00MGI4LWEwODktYWNkNDk3ZGFhODhk",
+    "created_at": 1765275612,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "hosted_vllm/infer-llama4-maverick-400b",
+    "object": "chat.completion",
+    "output": [
+      {
+        "type": "message",
+        "id": "chatcmpl-20295144-d747-40b8-a089-acd497daa88d",
+        "status": "stop",
+        "role": "assistant",
+        "content": [
+          {
+            "type": "output_text",
+            "text": "Sovereign refers to a concept related to cybersecurity, cloud infrastructure, and data protection, emphasizing compliance with stringent regulatory frameworks such as Swiss data protection laws and the EU's GDPR. ITNB's sovereign infrastructure operates fully within Swiss jurisdiction, ensuring data protection and compliance [1]. Their Sovereign Cloud and Cybersecurity solutions are designed to provide a secure environment for businesses, with services like Sovereign Endpoint Security and AI Model as a Service, allowing users to maintain control over their data and models [2][3].",
+            "annotations": []
+          }
+        ]
+      }
+    ],
+    "parallel_tool_calls": false,
+    "temperature": 0.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": null,
+    "max_output_tokens": null,
+    "previous_response_id": null,
+    "reasoning": {},
+    "status": "completed",
+    "text": {
+      "format": null
+    },
+    "truncation": null,
+    "usage": {
+      "input_tokens": 714,
+      "input_tokens_details": null,
+      "output_tokens": 100,
+      "output_tokens_details": null,
+      "total_tokens": 814
+    },
+    "user": null,
+    "store": null
+  }
+}

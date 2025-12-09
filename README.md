@@ -2,7 +2,7 @@
 What
 Simple RAG demo using GroundX (vector search) + kvant / LiteLLM (OpenAI-compatible /v1/responses). Includes: ingest.py (crawl & chunk), chat.py (CLI RAG), app.py (Streamlit UI).
 
-Prereqs
+#Prereqs
 
 Python 3.10+
 
@@ -19,7 +19,7 @@ OPENAI_API_BASE=https://maas.ai-2.kvant.cloud
 OPENAI_MODEL_NAME=inference-llama4-maverick
 
 
-Quick commands
+#Quick commands
 
 Crawl & chunk: python ingest.py → writes out/itnb_chunks_bfs.jsonl
 
@@ -29,7 +29,7 @@ CLI chat: python chat.py
 
 Streamlit UI: streamlit run app.py
 
-Notes / troubleshooting
+#Notes / troubleshooting
 
 If model rejected, script auto-lists /v1/models and retries with available model.
 
@@ -37,9 +37,6 @@ If GroundX search 401 — check GROUNDX_API_KEY and restart process.
 
 Streamlit: upgrade if you hit experimental_rerun errors: pip install --upgrade streamlit.
 
-Files
-
-ingest.py, chat.py, app.py, requirements.txt, out/
 
 Keys: never commit API keys. Use .env (local dev) or environment/secrets in deployment.
 
